@@ -9,5 +9,8 @@ In this wordlist I am trying to gather all possible passwords that the tunisians
 
 This is a special wordlist created for Airbox. The majority of people are not changing the default passwords. So using this wordlist you can crack all the airobox passwords with a rate of success equal to 90%.
 
+### Licence:
+[MIT](https://choosealicense.com/licenses/mit/) @cybereagle2001_wordlist
+
 ### original author:
 @cybereagle2001 (oussama ben hadj dahman)
