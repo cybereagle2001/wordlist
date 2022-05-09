@@ -1,6 +1,6 @@
 # cybereagle2001 wordlist
 
-When it comes to password cracking. The Tunisian pentesters are suffering because of the natural language of our country. That's why I decided to create this project where you will find the tunisian possible passswords.
+When it comes to password cracking, the Tunisian pentesters are in lack of tools because of the mother tongue of our country. That's why I decided to create this project where you will find the tunisian possible passswords.
 
 ### cybereagle2001_wordlist
 In this wordlist I am trying to gather all possible passwords that the tunisians can use.
